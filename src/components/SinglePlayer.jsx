@@ -1,3 +1,9 @@
+import { useState, useEffect } from 'react'
+
 export default function SinglePlayer() {
-    return <h2>Single Player</h2>
+    return (
+        <div>
+            <h1>Single Puppy</h1>
+        </div>
+    )
 }
